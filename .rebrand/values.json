@@ -1,0 +1,7 @@
+{
+  "repoName": "cloudflaretest",
+  "productName": "Cloudflare Test",
+  "productDomain": "tester.dev",
+  "workersDevSubdomain": "zeta-orun",
+  "orunWorkspace": "org_b23d880ff8214d6f8c434d6aa9927445"
+}
